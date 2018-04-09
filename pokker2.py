@@ -1,3 +1,5 @@
+#Väljastab 5 antud kaardi järgi, mis käega on tegemist
+#Kaardid antud viimases reas
 def käsi(a, b, c, d, e):
 
     def mastid(m):

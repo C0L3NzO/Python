@@ -31,7 +31,7 @@ def fraktal(pikkus, tase):
         right(90)
 
 
-fraktal(50, 6) #<--siin teist väärtust muutes saab muuta fraktali taset
+fraktal(50, 7) #<--siin teist väärtust muutes saab muuta fraktali taset
 
 exitonclick()
 
