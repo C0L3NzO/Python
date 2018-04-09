@@ -1,1 +1,1 @@
-# Python
+# Failid ülikooli Pythoni õpingutest
